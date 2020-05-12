@@ -1,0 +1,8 @@
+29-Mar-2020 18:11:56.418 INFOS [http-nio-8082-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Mar-2020 18:11:56.418 INFOS [http-nio-8082-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+29-Mar-2020 18:11:56.422 INFOS [http-nio-8082-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+29-Mar-2020 18:11:56.429 INFOS [http-nio-8082-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/rps'
+29-Mar-2020 18:11:56.429 INFOS [http-nio-8082-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Parapheur\tomcat\webapps\rps.war
+29-Mar-2020 18:17:20.398 INFOS [http-nio-8082-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Mar-2020 18:17:20.398 INFOS [http-nio-8082-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+29-Mar-2020 18:17:20.669 INFOS [http-nio-8082-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
